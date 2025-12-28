@@ -1,0 +1,8 @@
+{
+  "name": "TheraSynth Nexus",
+  "description": "A dual-persona AI for clinical experts and patient support, providing evidence-based research and empathetic grounding exercises with voice and vision capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
